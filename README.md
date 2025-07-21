@@ -3,7 +3,7 @@
 
 - Designed a visually engaging interface with custom animations and an animated scrolling background to enhance user experience.
 
-- Leveraged modern CSS techniques, including Flexbox and keyframe animations, to create a polished and centered layout.
+- Leveraged modern CSS techniques, including Flexbox and keyframe animations to create a polished and centered layout.
 
 - Gained hands-on experience in component-based architecture, React event handling, and efficient DOM manipulation.
 
